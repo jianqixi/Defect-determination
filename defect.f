@@ -1,3 +1,4 @@
+!If you decide to use this code, please cite "Fusion Science and Technology, 66, 235 (2014)" Thanks!
 program main  
 
 implicit none
